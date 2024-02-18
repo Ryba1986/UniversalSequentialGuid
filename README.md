@@ -1,3 +1,5 @@
+﻿![Nuget](https://img.shields.io/nuget/v/UniversalSequentialGuid)
+
 # UniversalSequentialGuid
 
 The UniversalSequentialGuid library provides a simple yet powerful solution for generating sequential GUIDs on the .NET platform, catering to various database engines while accommodating their sorting systems.
